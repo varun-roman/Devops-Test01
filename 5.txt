@@ -1,0 +1,11 @@
+commit 5d9c181e69adde00b1fd88453ef36337fa341fa2
+Author: Your Name <you@example.com>
+Date:   Wed Jul 19 04:34:05 2023 +0000
+
+    Revert "1"
+    
+    This reverts commit a171a05353c7f7781b7cc86c1ce7073bad2fea6e.
+
+diff --git a/5.txt b/5.txt
+deleted file mode 100644
+index e69de29..0000000
